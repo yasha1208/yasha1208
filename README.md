@@ -40,3 +40,10 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasha1208" alt=""/>
 </div>
+
+### 📊: Статистика активности:
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasha1208&theme=dracula"
+</div>
+
