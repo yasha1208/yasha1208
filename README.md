@@ -17,3 +17,6 @@
 </div>
 
 ### 	:skull: About me :
+- :clown_face: Its me
+- :smiley_cat: iam tupica
+- :cursing_face: *******
