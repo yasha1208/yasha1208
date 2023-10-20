@@ -1,6 +1,6 @@
 <div id="badges" align = "center">
   <a href="https://vk.com/yasha_trap"> 
-  <img scr = "https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
+  <img src = "https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=VK&logoColor=white" alt="VK Badge"/>
 </a>
 
 <a href= "https://www.youtube.com/channel/UCsUdy09tiu369lbriN4gXyQ"> 
