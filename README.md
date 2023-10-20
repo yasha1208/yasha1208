@@ -34,3 +34,9 @@
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=yasha1208" alt=""/>
 </div>
+
+### ⌨️: Наиболее используемые языки :
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasha1208" alt=""/>
+</div>
