@@ -32,5 +32,5 @@
 ### 🏆: Достижения :
 
 <div>
-  <img src="https://github.com/ryo-ma/github-profile-trophy.vercel.app/?username=yasha1208" alt=""/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yasha1208" alt=""/>
 </div>
